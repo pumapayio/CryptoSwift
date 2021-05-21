@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "container:CryptoSwift.xcodeproj">
+      location = "container:/Users/devm/projects/official/pumapay/CryptoSwift/PPCryptoSwift.xcodeproj">
    </FileRef>
 </Workspace>
